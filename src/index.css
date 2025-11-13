@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+
+    /* --color-primary: #1d55b4ff; */
+    --color-primary: #2323ddff; /* Valeurs HSL */
+    --color-secondary: #d8b00fff;
+    --color-neutral1: #e4e715ff;
+    --color-neutral2:  #244da5ff;
+    --font-text1:  "roboto";
+  }
