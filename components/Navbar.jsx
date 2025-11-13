@@ -12,7 +12,7 @@ const Navbar = () => {
       {/* Navigation */}
       <div className="nav">
         <ul className="flex gap-6 font-light">
-          {["Home", "Vehicules", "Details", "About Us", "Contact Us"].map(
+          {["Home", "Vehicule", "Details", "About Us", "Contact Us"].map(
             (item, index) => (
               <li
                 key={index}
